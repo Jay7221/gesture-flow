@@ -41,6 +41,10 @@ Use this gesture to reduce the pointer size as needed.
 
 Perform this gesture to exit the application.
 
+### Demo
+![image](https://github.com/Jay7221/gesture-controlled-presentation/assets/96529359/79b19e04-e5f1-42b0-abf0-7945380bdaab)
+
+
 ## Reference
 
 This project is a customization and implementation inspired by the "Hand Gesture Presentation" course by CVZone. You can find the course [here](https://www.computervision.zone/courses/hand-gesture-presentation/).
