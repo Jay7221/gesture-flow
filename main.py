@@ -25,8 +25,8 @@ buttonDelay = 10
 annotations = []
 annotationNumber = -1
 annotationStart = False
-marginX = 50
-marginY = 50
+marginX = 150
+marginY = 150
 
 # Hand Detector
 detector = HandDetector(detectionCon=0.8, maxHands=1)
